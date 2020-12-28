@@ -5,3 +5,6 @@ This is a simple newsletter application that sends the information to Mailchimp.
 * Build a newsletter with redirection to "Success" or "Failure" pages
 * Debugging when using APIs
 * Deploy to heroku
+## How to run ##
+1. Install packages by running `npm install`
+2. Run local server by entering `nodemon app.js` || `node app.js`
