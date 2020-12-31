@@ -8,3 +8,4 @@ A simple newsletter application that sends the information to Mailchimp.
 ## How to run ##
 1. Install packages by running `npm install`
 2. Run local server by entering `nodemon app.js` || `node app.js`
+3. Open `http://localhost:3000/`
